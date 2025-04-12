@@ -1,0 +1,21 @@
+id: r1
+name: Pacman Challenge R1
+description: First challenge in Pacman RL.
+entrypoint: python mysettings.py
+files:
+  - analysis.py
+  - autograder.py
+  - crawler.py
+  - environment.py
+  - featureExtractors.py
+  - game.py
+  - ghostAgents.py
+  - grading.py
+  - graphicsCrawlerDisplay.py
+  - graphicsDisplay.py
+  - graphicsGridworldDisplay.py
+  - graphicsUtils.py
+  - gridworld.py
+  - keyboardAgents.py
+  - layout.py
+  - learningAgents.py
