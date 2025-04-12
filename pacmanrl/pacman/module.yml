@@ -1,4 +1,4 @@
-name: PacmanRL
+name: pacmanrl
 challenges:
   - id: r1
     name: Pacman Challenge R1
