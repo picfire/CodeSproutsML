@@ -10,10 +10,6 @@ modules:
       dojo: example
       module: hello
 
-  - import:
-      dojo: example
-      module: Pacman
-
   - id: planet
     name: Planet
     description: A couple planets.
@@ -34,7 +30,7 @@ modules:
 
       - import:
           dojo: pacmanrl
-          module: pacman
+          module: PacmanRL
           challenge: r1
         name: Pacman Challenge R1
         description: This is the first challenge in the Pacman RL module.
