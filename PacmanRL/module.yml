@@ -1,0 +1,4 @@
+name: PacmanRL
+challenges:
+  - id: Pacman
+    name: Pacman
