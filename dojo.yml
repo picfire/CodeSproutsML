@@ -21,7 +21,6 @@ modules:
       - import:
           dojo: example
           module: pacmanrl
-          challenge: pacman
 
   - id: planet
     name: Planet
