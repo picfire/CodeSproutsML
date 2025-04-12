@@ -6,8 +6,6 @@ type: example
 
 modules:
 
-   
-
   - import:
       dojo: example
       module: hello
@@ -21,7 +19,7 @@ modules:
           dojo: pacmanrl
           module: pacman
           challenge: pacmanrl
-        name: PacmanRL# filepath: c:\Users\picfire\Desktop\CodeSprouts\CodeSproutsML\dojo.yml
+        name: PacmanRL
 
   - id: planet
     name: Planet

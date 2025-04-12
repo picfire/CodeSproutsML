@@ -1,3 +1,5 @@
 name: PacmanRL
 challenges:
-  - id: pacmanrl
+  - id: r1
+    name: Pacman Challenge R1
+    description: First challenge in Pacman RL.
