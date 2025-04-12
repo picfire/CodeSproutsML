@@ -15,16 +15,19 @@ modules:
   - id: pacman
     name: Pacman
     description: A classic game of Pacman.
+    
+    challenges:
+      - import:
+          dojo: pacmanrl
+          module: pacman
+          challenge: pacmanrl
+        name: PacmanRL# filepath: c:\Users\picfire\Desktop\CodeSprouts\CodeSproutsML\dojo.yml
 
   - id: planet
     name: Planet
     description: A couple planets.
 
     challenges:
-      - import:
-          dojo: example
-          module: pacman
-          challenge: pacmanrl
 
       - import:
           dojo: example
