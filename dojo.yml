@@ -15,13 +15,7 @@ modules:
   - id: pacman
     name: Pacman
     description: A classic game of Pacman.
-
-    challenges:
-
-      - import:
-          dojo: example
-          module: pacmanrl
-
+    
   - id: planet
     name: Planet
     description: A couple planets.
