@@ -13,6 +13,15 @@ modules:
       module: hello
 
   - id: pacman
+    name: Pacman
+    description: A classic game of Pacman.
+
+    challenges:
+
+      - import:
+          dojo: example
+          module: pacman
+          challenge: pacman
 
   - id: planet
     name: Planet
