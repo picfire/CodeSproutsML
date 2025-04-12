@@ -1,4 +1,4 @@
-id: example-import
+id: codesproutsml
 
 name: Example Import Dojo
 
@@ -15,7 +15,7 @@ modules:
   - id: pacman
     name: Pacman
     description: A classic game of Pacman.
-    
+
   - id: planet
     name: Planet
     description: A couple planets.
