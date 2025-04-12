@@ -12,7 +12,7 @@ modules:
       dojo: example
       module: hello
 
-  - id: Pacmansito
+  - id: pacman
 
   - id: planet
     name: Planet
