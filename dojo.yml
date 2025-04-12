@@ -10,6 +10,11 @@ modules:
       dojo: example
       module: hello
 
+      
+  - import:
+      dojo: example
+      module: Pacman
+
   - id: planet
     name: Planet
     description: A couple planets.
