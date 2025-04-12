@@ -27,3 +27,12 @@ modules:
           challenge: mars
         name: Martian Planet
         description: This is a martian planet... mars.
+
+  - id: pacman-rl
+    name: Pacman RL
+    description: A reinforcement learning challenge with Pacman.
+    challenges:
+      - import:
+          dojo: hacker
+          module: pacman
+          challenge: rl
