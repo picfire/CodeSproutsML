@@ -21,6 +21,10 @@ modules:
     description: A couple planets.
 
     challenges:
+      - import:
+          dojo: example
+          module: pacman
+          challenge: pacmanrl
 
       - import:
           dojo: example
