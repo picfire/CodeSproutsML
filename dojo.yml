@@ -10,7 +10,6 @@ modules:
       dojo: example
       module: hello
 
-      
   - import:
       dojo: example
       module: Pacman
@@ -32,3 +31,10 @@ modules:
           challenge: mars
         name: Martian Planet
         description: This is a martian planet... mars.
+
+      - import:
+          dojo: pacmanrl
+          module: pacman
+          challenge: r1
+        name: Pacman Challenge R1
+        description: This is the first challenge in the Pacman RL module.
