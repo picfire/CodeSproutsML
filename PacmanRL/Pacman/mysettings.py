@@ -25,6 +25,6 @@ normalRuns = 10
 trainingRuns = 2000
 
 if __name__ == "__main__":
-    from pacmanRL.run_helper import run
+    from r1.run_helper import run
 
     run()
