@@ -28,9 +28,4 @@ modules:
         name: Martian Planet
         description: This is a martian planet... mars.
 
-      - import:
-          dojo: pacmanrl
-          module: PacmanRL
-          challenge: r1
-        name: Pacman Challenge R1
-        description: This is the first challenge in the Pacman RL module.
+      - id: PacmanRL
