@@ -5,7 +5,7 @@ name: Example Import Dojo
 type: example
 
 modules:
-  - id: PacmanRL
+
   - import:
       dojo: example
       module: hello
