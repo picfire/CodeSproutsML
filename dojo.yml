@@ -20,7 +20,7 @@ modules:
 
       - import:
           dojo: example
-          module: PacmanRL
+          module: pacmanrl
           challenge: pacman
 
   - id: planet
