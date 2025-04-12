@@ -18,8 +18,9 @@ modules:
       - import:
           dojo: pacmanrl
           module: pacman
-          challenge: pacmanrl
-        name: PacmanRL
+          challenge: r1
+        name: Pacman Challenge R1
+        description: First challenge in Pacman RL.
 
   - id: planet
     name: Planet
