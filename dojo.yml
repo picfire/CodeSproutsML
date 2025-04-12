@@ -6,9 +6,13 @@ type: example
 
 modules:
 
+   
+
   - import:
       dojo: example
       module: hello
+
+  - id: world
 
   - id: planet
     name: Planet
