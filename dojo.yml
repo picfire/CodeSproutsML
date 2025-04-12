@@ -18,7 +18,7 @@ modules:
       - import:
           dojo: pacmanrl
           module: pacman
-          challenge: pacman
+          challenge: r1
         name: Pacman Challenge R1
         description: First challenge in Pacman RL.
 
